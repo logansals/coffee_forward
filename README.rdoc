@@ -1,5 +1,7 @@
 == Welcome to Rails
 
+This Coffee Forward application will revolutionize the way friends, colleagues, and family will be able to say thank you in form of a fresh cup of coffee. Enjoy!
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
